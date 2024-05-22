@@ -154,9 +154,7 @@ The core component implemented includes the data preprocessing scripts, model tr
 **Files:**
 - [`data_prepro.ipynb`](data_prepro.ipynb)
 - [`Train_Voices.ipynb`](Train_Voices.ipynb)
-- [`Infer_voices.ipynb`](Infer_voices.ipynb
-
-)
+- [`Infer_voices.ipynb`](Infer_voices.ipynb)
 - [`dockerfile`](dockerfile)
 - [`docker-compose.yml`](docker-compose.yml)
 - [`app.py`](app.py)
