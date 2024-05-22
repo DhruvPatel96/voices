@@ -1,0 +1,13 @@
+flask
+torch
+numpy
+scipy
+resampy
+matplotlib
+tqdm
+gdown
+tensorflow
+inflect
+ipython
+librosa
+unidecode
