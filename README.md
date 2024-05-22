@@ -1,5 +1,5 @@
 
-# Voice Cloning Project Plan
+# Voice Cloning Project Plan Document
 
 ## Introduction
 The goal of this project is to create a system that can clone a voice by capturing the unique characteristics of a speaker's voice and synthesizing new audio that sounds like the original speaker. This document outlines the approach, key technical decisions, and core components of the project.
