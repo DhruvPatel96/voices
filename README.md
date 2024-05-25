@@ -150,6 +150,8 @@ The LJ Speech Dataset consists of 13,100 audio clips of a single speaker reading
 
 ### Core Component
 The core component implemented includes the data preprocessing scripts, model training code, and a basic synthesis script to demonstrate voice cloning.
+![Screenshot 2024-05-25 185311](https://github.com/DhruvPatel96/voices/assets/80629263/0c8f3591-a8b0-4eaf-9e9c-53323568c3e1)
+
 
 **Files:**
 - [`data_prepro.ipynb`](data_prepro.ipynb)
